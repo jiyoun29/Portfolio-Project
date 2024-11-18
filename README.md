@@ -8,4 +8,4 @@
 
 | [![Project 3 Thumbnail](link_to_image_3)](link_to_project3.pdf)  | [![Project 4 Thumbnail](link_to_image_4)](link_to_project4.pdf) |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
-| **Project 3**<br>Short description for project 3                | **Project 4**<br>Short description for project 4                |
+| **Project 3**<br> 신경망 알고리즘을 이용한 사용자 기반 영화 데이터 추천          | **Project 4**<br>Short description for project 4                |
